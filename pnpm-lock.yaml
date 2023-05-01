@@ -7,10 +7,10 @@ dependencies:
 
 devDependencies:
   typescript:
-    specifier: ^5.0.2
+    specifier: ^5.0.4
     version: 5.0.4
   vite:
-    specifier: ^4.3.2
+    specifier: ^4.3.3
     version: 4.3.3
 
 packages:
@@ -274,8 +274,8 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /rollup@3.21.0:
-    resolution: {integrity: sha512-ANPhVcyeHvYdQMUyCbczy33nbLzI7RzrBje4uvNiTDJGIMtlKoOStmympwr9OtS1LZxiDmE2wvxHyVhoLtf1KQ==}
+  /rollup@3.21.2:
+    resolution: {integrity: sha512-c4vC+JZ3bbF4Kqq2TtM7zSKtSyMybFOjqmomFax3xpfYaPZDZ4iz8NMIuBRMjnXOcKYozw7bC6vhJjiWD6JpzQ==}
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
@@ -320,7 +320,7 @@ packages:
     dependencies:
       esbuild: 0.17.18
       postcss: 8.4.23
-      rollup: 3.21.0
+      rollup: 3.21.2
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
