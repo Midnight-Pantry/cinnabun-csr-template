@@ -13,6 +13,6 @@
     "vite": "^4.3.3"
   },
   "dependencies": {
-    "cinnabun": "^0.1.16"
+    "cinnabun": "^0.1.17"
   }
 }
