@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   cinnabun:
-    specifier: ^0.1.23
-    version: 0.1.23
+    specifier: ^0.1.24
+    version: 0.1.24
 
 devDependencies:
   typescript:
@@ -213,8 +213,8 @@ packages:
     dev: true
     optional: true
 
-  /cinnabun@0.1.23:
-    resolution: {integrity: sha512-C7i1brYbfq4N/eH/9hWsah6DyCBYh6+VFuFPq+btvS4IlrzVEYy+uHIG/u95XYwl7skr+3bXIqr51cAkNRJh/A==}
+  /cinnabun@0.1.24:
+    resolution: {integrity: sha512-eSa7DXYpwJG92duW6M0hlqnHf8TgxQd6C3vZcMscbFqaQWJQ7MjM7uQUBYnozDuuRqwlY2dvh328bGjXJ7Jggg==}
     dev: false
 
   /esbuild@0.17.19:
