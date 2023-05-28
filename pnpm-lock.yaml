@@ -2,16 +2,16 @@ lockfileVersion: '6.0'
 
 dependencies:
   cinnabun:
-    specifier: ^0.1.24
-    version: 0.1.24
+    specifier: ^0.1.25
+    version: 0.1.25
 
 devDependencies:
   typescript:
     specifier: ^5.0.4
     version: 5.0.4
   vite:
-    specifier: ^4.3.8
-    version: 4.3.8
+    specifier: ^4.3.9
+    version: 4.3.9
 
 packages:
 
@@ -213,8 +213,8 @@ packages:
     dev: true
     optional: true
 
-  /cinnabun@0.1.24:
-    resolution: {integrity: sha512-eSa7DXYpwJG92duW6M0hlqnHf8TgxQd6C3vZcMscbFqaQWJQ7MjM7uQUBYnozDuuRqwlY2dvh328bGjXJ7Jggg==}
+  /cinnabun@0.1.25:
+    resolution: {integrity: sha512-/+c4EpsT/Bgz/th5VxP7MbWtiK1JMYDx3riRQIxOvUJoKXBIWGNZrZitebv2UBuU6wLFTUsFdhixtCyRFkPG5Q==}
     dev: false
 
   /esbuild@0.17.19:
@@ -293,8 +293,8 @@ packages:
     hasBin: true
     dev: true
 
-  /vite@4.3.8:
-    resolution: {integrity: sha512-uYB8PwN7hbMrf4j1xzGDk/lqjsZvCDbt/JC5dyfxc19Pg8kRm14LinK/uq+HSLNswZEoKmweGdtpbnxRtrAXiQ==}
+  /vite@4.3.9:
+    resolution: {integrity: sha512-qsTNZjO9NoJNW7KnOrgYwczm0WctJ8m/yqYAMAK9Lxt4SoySUfS5S8ia9K7JHpa3KEeMfyF8LoJ3c5NeBJy6pg==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
