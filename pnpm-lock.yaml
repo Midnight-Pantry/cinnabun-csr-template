@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   cinnabun:
-    specifier: ^0.1.25
-    version: 0.1.25
+    specifier: ^0.1.26
+    version: 0.1.26
 
 devDependencies:
   typescript:
@@ -213,8 +213,8 @@ packages:
     dev: true
     optional: true
 
-  /cinnabun@0.1.25:
-    resolution: {integrity: sha512-/+c4EpsT/Bgz/th5VxP7MbWtiK1JMYDx3riRQIxOvUJoKXBIWGNZrZitebv2UBuU6wLFTUsFdhixtCyRFkPG5Q==}
+  /cinnabun@0.1.26:
+    resolution: {integrity: sha512-AqZKtFEIXxQhmHdSlF6aZroZPRUSvhK/u+/dsitR68HquKAtr5/hcS9Hkq9+xt3xgERTr58ldfqvE+wCDN8CrQ==}
     dev: false
 
   /esbuild@0.17.19:
@@ -265,8 +265,8 @@ packages:
     resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==}
     dev: true
 
-  /postcss@8.4.23:
-    resolution: {integrity: sha512-bQ3qMcpF6A/YjR55xtoTr0jGOlnPOKAIMdOWiv0EIT6HVPEaJiJB4NLljSbiHoC2RX7DN5Uvjtpbg1NPdwv1oA==}
+  /postcss@8.4.24:
+    resolution: {integrity: sha512-M0RzbcI0sO/XJNucsGjvWU9ERWxb/ytp1w6dKtxTKgixdtQDq4rmx/g8W1hnaheq9jgwL/oyEdH5Bc4WwJKMqg==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
       nanoid: 3.3.6
@@ -319,7 +319,7 @@ packages:
         optional: true
     dependencies:
       esbuild: 0.17.19
-      postcss: 8.4.23
+      postcss: 8.4.24
       rollup: 3.23.0
     optionalDependencies:
       fsevents: 2.3.2
