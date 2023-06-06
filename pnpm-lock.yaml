@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   cinnabun:
-    specifier: ^0.1.32
-    version: 0.1.32
+    specifier: ^0.1.33
+    version: 0.1.33
 
 devDependencies:
   typescript:
@@ -217,8 +217,8 @@ packages:
     dev: true
     optional: true
 
-  /cinnabun@0.1.32:
-    resolution: {integrity: sha512-5ZEGV1zlTliIaYPS8B60UaBJwErSAtiCRn4TluYQD8XeD9sml5TUZdxRA9D2c8jEEweMAiSSJ9g1dlRQbCiDWg==}
+  /cinnabun@0.1.33:
+    resolution: {integrity: sha512-o/AtexFK5x0HdoxDXVcherZJt++TPd/ErfdyzHuABwJ5JvWpy9iC8p7Urvu6uPa4NssXwqNUsGXQTq6WiZKxSQ==}
     dev: false
 
   /esbuild@0.17.19:
